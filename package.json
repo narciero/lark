@@ -2,7 +2,7 @@
   "name": "lark-theme",
   "displayName": "Lark",
   "description": "Color theme based on Linear dark mode.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "url": "https://github.com/narciero/lark/tree"
   },
