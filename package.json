@@ -1,11 +1,16 @@
 {
-  "name": "lark",
+  "name": "lark-theme",
   "displayName": "Lark",
   "description": "Color theme based on Linear dark mode.",
   "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/narciero/lark/tree"
+  },
+  "license": "MIT",
   "engines": {
     "vscode": "^1.73.0"
   },
+  "publisher": "nicnac",
   "categories": [
     "Themes"
   ],
