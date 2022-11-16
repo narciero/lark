@@ -1,0 +1,25 @@
+{
+  "name": "lark",
+  "displayName": "Lark",
+  "description": "Color theme based on Linear dark mode.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lark-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "vsce:publish": "vsce publish",
+    "vsce:publish:minor": "vsce publish minor"
+  }
+}
